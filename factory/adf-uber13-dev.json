@@ -1,0 +1,9 @@
+{
+	"name": "adf-uber13-dev",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fad5f286-17ea-4ed3-9cc1-481f88a450f4",
+		"tenantId": "0f3e64cc-8d54-4fa3-a1de-f437d58b1aff"
+	}
+}
